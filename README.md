@@ -39,7 +39,7 @@ This API connects users with astrologers by implementing a flow distribution alg
 ## How to Run the API
 1. Clone the repository.
 2. Install dependencies: `npm install`.
-3. Start the server: `node index.js`. It can run test als
+3. Start the server: `node index.js`. Or Start the server with unit test:`npm start`
 4. Use a tool like Postman to interact with the API.
 
 ## Testing
